@@ -1,1 +1,5 @@
 # COE3SM4_Lab1Template
+
+Student Name: [YOUR NAME HERE]
+Student ID: [YOUR STUDENT NUMBER HERE]
+Mac ID: [YOUR MAC ID HERE]
